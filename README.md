@@ -1,16 +1,16 @@
-## Hi there 👋
+#### Portfolio Projects
 
-<!--
-**darapiven/darapiven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here you can find some projects that I am most proud of at the moment.
 
-Here are some ideas to get you started:
+## SQL, Tableau, and Linear Regression
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Final Project](https://github.com/darapiven/Final-project)
+
+It is my final project for completing the Data Analytics & Engineering course at DTA.
+
+## SQL, Google Sheets, Python
+
+[DataFusion Sales & Marketing ROI](https://github.com/darapiven/DataFusion_Sales_-_Marketing_ROI-DTA/tree/feature)
+
+In this project, I used data from PostgreSQL and Google Sheets.  
+I then opened, cleaned, and answered analytical questions using Python.
