@@ -16,3 +16,9 @@ Here, I ran SQL queries in BigQuery on the theLook eCommerce dataset for data ex
 
 In this project, I used data from PostgreSQL and Google Sheets.  
 I then opened, cleaned, and answered analytical questions using Python.
+
+## Langchain AI agent
+
+[Langchain AI agent](https://github.com/darapiven/LANGCHAIN_DTA)
+
+Learning project on making an AI agent on the base of OpenAI LLM
